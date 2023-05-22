@@ -7,7 +7,7 @@ params:
   # dir name of your blog content (default is `content/posts`)
   contentTypeName: posts
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor: orange
+  themeColor: green
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems: 3
   # show selector to switch language
@@ -15,7 +15,7 @@ params:
   # set theme to full screen width
   fullWidthTheme: false
   # center theme with default width
-  centerTheme: false
+  centerTheme: true
 
 languages:
   en:
