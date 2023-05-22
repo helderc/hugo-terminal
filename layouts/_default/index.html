@@ -10,7 +10,9 @@
 
     {{ $PageContext := . }}
     {{ if .IsHome }}
-      {{ $PageContext = .Site }}
+	  {{ if not .IsHome }}
+		{{ $PageContext = .Site }}
+	  {{ end }} 
     {{ end }}
     {{ $paginator := .Paginate (where $PageContext.RegularPages "Type" $contentTypeName) }}
 
