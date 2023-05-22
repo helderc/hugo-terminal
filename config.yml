@@ -29,7 +29,7 @@ languages:
 
     params:
       logo:
-        logoText: Terminal
+        logoText: lot6x
         logoHomeLink: /
 
     menu:
