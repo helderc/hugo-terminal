@@ -5,7 +5,7 @@ paginate: 5
 
 params:
   # dir name of your blog content (default is `content/posts`)
-  # contentTypeName: posts
+  contentTypeName: posts
   # ["orange", "blue", "red", "green", "pink"]
   themeColor: green
   # if you set this to 0, only submenu trigger will be visible
@@ -16,6 +16,26 @@ params:
   fullWidthTheme: false
   # center theme with default width
   centerTheme: true
+  
+   # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # oneHeadingSize = true # default
+
+  # whether to show a page's estimated reading time
+  # readingTime = false # default
+
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  # Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  # TocTitle = "Table of Contents" # default
 
 languages:
   en:
@@ -37,6 +57,6 @@ languages:
       - identifier: about
         name: About
         url: /about
-#      - identifier: showcase
-#        name: Showcase
-#        url: /showcase
+      - identifier: links
+        name: Links
+        url: /links
