@@ -1,5 +1,5 @@
 +++
-title = "Hello Friend"
+title = "Hello"
 date = "2023-05-21"
 author = "Lorem Ipsum"
 cover = "hello.jpg"
