@@ -20,8 +20,8 @@ params:
 languages:
   en:
     languageName: English
-    title: Your site title
-    subtitle: Your site subtitle
+    title: lot6x
+    subtitle: malware collector
     keywords: ''
     menuMore: Show more
     readMore: Read more
@@ -37,6 +37,6 @@ languages:
       - identifier: about
         name: About
         url: /about
-      - identifier: showcase
-        name: Showcase
-        url: /showcase
+#      - identifier: showcase
+#        name: Showcase
+#        url: /showcase
