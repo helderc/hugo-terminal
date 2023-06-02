@@ -40,8 +40,8 @@ params:
 languages:
   en:
     languageName: English
-    title: lot6x
-    subtitle: malware collector
+    title: c0dex
+    subtitle: ''
     keywords: ''
     menuMore: Show more
     readMore: Read more
@@ -49,7 +49,7 @@ languages:
 
     params:
       logo:
-        logoText: [lot6x@vx]
+        logoText: [c0dex@vx]
         logoHomeLink: /
 
     menu:
