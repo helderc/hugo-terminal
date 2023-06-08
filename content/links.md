@@ -4,6 +4,9 @@ date: "2023-05-21"
 author: "lot6"
 ---
 
+## Malware
+- [Virus Encyclopedia](http://virus.wikidot.com/)
+
 ## Useful links
 
 - [TryHackMe](https://tryhackme.com/)
