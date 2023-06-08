@@ -62,6 +62,9 @@ languages:
       - identifier: about
         name: About
         url: /about
+      - identifier: halloffame
+        name: Hall of Fame
+        url: /hall-of-fame
       - identifier: links
         name: Links
         url: /links
