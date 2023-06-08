@@ -1,6 +1,6 @@
 ---
 layout: "index"
-framed: "true"
+framed: "false"
 title: "Home"
 author: "c0dex"
 ---
