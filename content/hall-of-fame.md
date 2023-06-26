@@ -18,7 +18,7 @@ The *hash code*, when provided, corresponds to the sample that I have in my coll
 
 ## Virus
 - Dolly the Sheep
-- Vienna (variants will be shared later)
+- Vienna (variants will be added later)
 
 ## Virus Creation Lab
 - NRLG
