@@ -1,6 +1,6 @@
 ---
 title: "Hall of Fame"
-date: "2023-05-21"
+date: "2023-06-27"
 author: "c0dex"
 ---
 
@@ -21,5 +21,6 @@ The *hash code*, when provided, corresponds to the sample that I have in my coll
 - Vienna (variants will be added later)
 
 ## Virus Creation Lab
-- NRLG
-
+- NuKe Randomic Life Generator (NRLG)
+- Virus Creation Lab ([VCL](https://en.wikipedia.org/wiki/Virus_Creation_Laboratory))
+- Satanic Brain
