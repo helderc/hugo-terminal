@@ -17,9 +17,12 @@ The *hash code*, when provided, corresponds to the sample that I have in my coll
 - WinCrash
 - BackOrifice
 
-## Virus
+## Worm
 - Dolly the Sheep (`a36da2772e9df8ad61daf7ff10e81099` - [VT](https://www.virustotal.com/gui/file/43139dd432d35d0abb2bdbb9aeff39cab4510490f27e45f397a1cedb112ce38c/detection))
-- Vienna (variants will be added later)
+
+## Virus
+- Vienna:
+  - Vienna.645 (`a1237ec2d81c2f398023d01544cceef3` - [VT](https://www.virustotal.com/gui/file/46769e640c77c77cd2d32063e61638696e69d55d64488d6d3bb5c1a8c7aacdde/detection))
 
 ## Virus Creation Lab
 - NuKe Randomic Life Generator (NRLG)
