@@ -1,6 +1,6 @@
 ---
 title: "Hall of Fame"
-date: "2023-06-27"
+date: "2023-06-30"
 author: "c0dex"
 ---
 
@@ -23,6 +23,7 @@ The *hash code*, when provided, corresponds to the sample that I have in my coll
 ## Virus
 - Vienna:
   - Vienna.645 (`a1237ec2d81c2f398023d01544cceef3` - [VT](https://www.virustotal.com/gui/file/46769e640c77c77cd2d32063e61638696e69d55d64488d6d3bb5c1a8c7aacdde/detection))
+- Brain.Boot (`85f0e1646c354e3fce66b777917fbec1` - [VT](https://www.virustotal.com/gui/file/a3427579a162e73cdd4f68337195de329760f43812d10002f9354f179f86490d))
 
 ## Virus Creation Lab
 - NuKe Randomic Life Generator (NRLG)
