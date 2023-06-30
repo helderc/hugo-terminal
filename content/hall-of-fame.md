@@ -17,7 +17,7 @@ The *hash code*, when provided, corresponds to the sample that I have in my coll
 - BackOrifice
 
 ## Virus
-- Dolly the Sheep
+- Dolly the Sheep (`a36da2772e9df8ad61daf7ff10e81099` - [VT](https://www.virustotal.com/gui/file/43139dd432d35d0abb2bdbb9aeff39cab4510490f27e45f397a1cedb112ce38c/detection))
 - Vienna (variants will be added later)
 
 ## Virus Creation Lab
