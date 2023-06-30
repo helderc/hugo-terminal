@@ -64,6 +64,9 @@ languages:
       - identifier: about
         name: About
         url: /about
+      - identifier: virussort
+        name: Virus Sort
+        url: /virussort
       - identifier: halloffame
         name: Hall of Fame
         url: /hall-of-fame
