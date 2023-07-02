@@ -13,7 +13,7 @@ Here are listed the potential features just to track the progresses.
 
 - File Management:
 
-    - [ X ] Calculate hash (MD5, SHA1, SHA224, SHA256, SHA384, SHA512) of files 
+    - [x] Calculate hash (MD5, SHA1, SHA224, SHA256, SHA384, SHA512) of files 
     - [X] Rename files based on their hash code
     - [X] Move files (the file name is its hash code) to the respective folder following the pattern: files with hash starting with `00` go to the folder `0\00\`
     - [ ] Move to a different folder files defined as benign or not into the VirusShare or VirusTotal database
