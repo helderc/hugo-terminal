@@ -73,3 +73,6 @@ languages:
       - identifier: links
         name: Links
         url: /links
+
+blackfriday:
+    - taskLists: true
