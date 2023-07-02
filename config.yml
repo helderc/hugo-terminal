@@ -24,6 +24,8 @@ params:
   
   # set a custom favicon (default is a `themeColor` square)
   favicon: "favicon.ico"
+  
+  taskLists: true
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix = "Updated"
@@ -73,6 +75,3 @@ languages:
       - identifier: links
         name: Links
         url: /links
-
-blackfriday:
-    - taskLists: true
